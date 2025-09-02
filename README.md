@@ -1,6 +1,6 @@
 # LinearRegression-StarCraftII
 
-# 😀 STA 2260 Final Project – StarCraft Data Analysis
+# STA 2260 Final Project – StarCraft Data Analysis
 
 ## Overview
 This project is a statistical analysis of the **StarCraft player dataset** for the course **STA 2260**.  
